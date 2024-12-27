@@ -1,6 +1,6 @@
-# Figma Website Clone with Additional Features
+# Figma Website Clone with Additional Features Given by your company
 
-This project is a clone of the Figma website, enhanced with additional features inspired by a provided website link. The goal of this project was to replicate the original design and functionality while adding unique touches to improve the user experience.
+This project is a clone of the Figma website that is provided for me in this internship process, enhanced with additional features inspired by a provided website link. The goal of this project was to replicate the original design and functionality while adding unique touches to improve the user experience.
 
 ## Features
 
